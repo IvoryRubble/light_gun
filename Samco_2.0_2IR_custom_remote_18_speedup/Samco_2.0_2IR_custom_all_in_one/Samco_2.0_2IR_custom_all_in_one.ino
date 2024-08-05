@@ -18,15 +18,6 @@
 
 // Controls: WASD, trigger: left mouse button (on screen) or right mouse button (off screen)
 
-// TODO:
-// log uptime +
-// update log message +
-// serial log on/off by button +
-// fix reload button stuck +
-// fine-tune camera rotation +
-// host blink similar to remote +
-// make host dongle +
-
 #include <Keyboard.h>
 #include <AbsMouse.h>
 #include <EEPROM.h>
