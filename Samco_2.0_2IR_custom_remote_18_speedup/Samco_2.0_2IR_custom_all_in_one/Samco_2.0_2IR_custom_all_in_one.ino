@@ -22,8 +22,8 @@
 // log uptime +
 // update log message +
 // serial log on/off by button +
-// fix reload button stuck
-// fine-tune camera rotation
+// fix reload button stuck +
+// fine-tune camera rotation +
 // host blink similar to remote +
 // make host dongle +
 
